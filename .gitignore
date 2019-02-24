@@ -41,3 +41,4 @@ out.txt
 output.txt
 *.out
 task_files/
+*.sln
